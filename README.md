@@ -197,3 +197,4 @@
 |166| Sarah Jiang |7| sarahjya | <https://github.com/sarahjya/my_website.git> | https://sarahyianjiangportfolio.netlify.app/ | 2020-10-20
 |167| Luana Totea | 14 | luanatotea| https://github.com/luanatotea | https://lmt-portofolio-website.netlify.app |2020-10-20|
 |168| Muslim Dashaev |28| mdashaev | <https://github.com/mdashaev/my_website.git> | https://mdashaev.netlify.app/ | 2020-10-20
+|169| Kateryna Tarasova |8| katerina1414 | <https://github.com/katerina1414/my_website> | https://kateryna-tarasova.netlify.app | 2020-10-20
